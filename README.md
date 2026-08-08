@@ -9,7 +9,7 @@ Kedai Kopi
 # Referensi Pinterest:
 https://pin.it/qR46bEEFX
 # Desrkripsi:
-Website ini mempromosikan kopi lokal indonesia yang lezat dan bergizi 
+Website ini mempromosikan kopi lokal indonesia yang lezat dan bergizi
 # Kesulitan:
 -sulit mencari kata perintahnya
 -sulit mengatur desainnya
