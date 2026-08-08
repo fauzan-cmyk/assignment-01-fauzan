@@ -1,0 +1,25 @@
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# File log
+*.log
+
+# File temporary/backup
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Folder node_modules (jaga-jaga kalau nanti pakai npm/live-server)
+node_modules/
+
+# File environment (kalau ada API key dsb.)
+.env
