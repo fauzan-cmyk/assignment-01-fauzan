@@ -11,6 +11,7 @@ https://pin.it/qR46bEEFX
 # Desrkripsi:
 Website ini mempromosikan kopi lokal indonesia yang lezat dan bergizi
 # Kesulitan:
+-Tidak bisa screnshoot
 -sulit mencari kata perintahnya
 -sulit mengatur desainnya
 # Hal yang baru dipelajari:
