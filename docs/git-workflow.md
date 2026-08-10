@@ -31,7 +31,7 @@ Command: git init
 ```
 Hasil: Initialized empty Git repository in C:/Users/MY ACER/assignment-01-Fauzan/.git/
 ```
-![Inisialisasi git](screenshots/instal-git.jpeg)
+![Inisialisasi git](screenshots/Instal-git.jpeg)
 
 ## 4. Pemeriksaan Perubahan File
 Untuk melihat file apa saja yang belum ditrack oleh Git,menggunakan peerintah berikut:
